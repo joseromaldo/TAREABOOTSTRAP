@@ -1,0 +1,32 @@
+#body1{
+    background-color: black;
+}
+.container{
+text-align: center;
+color: gray;
+}
+.container2{
+    text-align: center;
+    color: gray;
+}
+#body2{
+    background-color: black;
+}
+.row{
+    border: solid;
+    border-width: 2px;
+    border-color: antiquewhite;
+}
+.col{
+    border: solid;
+    border-width: 2px;
+    border-color: antiquewhite;
+}
+#img2{
+    height: 100%;
+    width: 100%;
+}
+#img3{
+    height: 100%;
+    width: 100%;
+}
